@@ -9,7 +9,7 @@ export default function home() {
 
         <div className='home'>
 
-            <img className='urban' src={require('../img/urbanlife.gif')} alt='urbanlife' height={900} width={1700} />
+           URBAN-LIFE V.1 2022
 
         </div>
 
